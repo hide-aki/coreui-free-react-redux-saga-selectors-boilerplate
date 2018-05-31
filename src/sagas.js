@@ -4,7 +4,7 @@
 
 // import { DEFAULT_ACTION } from './store/actions/constants';
 
-import config from './config.js';
+// import config from './config.js';
 
 // Individual exports for testing
 export function* defaultSaga() {
